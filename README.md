@@ -2,8 +2,8 @@
 
 A fun, interactive browser game built with HTML, CSS, and JavaScript! This Whack-a-Mole game challenges players to test their speed and reflexes by clicking on moles that pop up randomly from different holes.
 
-Key Features:
 
+Key Features:
 Dynamic gameplay with randomized mole appearances.
 
 Score tracking to keep track of your performance.
