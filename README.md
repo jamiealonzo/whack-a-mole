@@ -4,6 +4,7 @@ A fun, interactive browser game built with HTML, CSS, and JavaScript! This Whack
 
 
 Key Features:
+
 Dynamic gameplay with randomized mole appearances.
 
 Score tracking to keep track of your performance.
